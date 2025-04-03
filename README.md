@@ -22,7 +22,7 @@ cd TechGPT
 2️⃣ **Run the backend**  
 ```sh
 npm install
-node server.js
+node test.js
 ```
 
 3️⃣ **Open `index.html`** in a browser  
